@@ -1,6 +1,13 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif">, I'm Vinicius Schuelter</h1>
-<h4 align="center">I am a Front-End developer with experience building web applications. I specialize in Angular and have professional experience working with Typescript, RxJs, NgRx, Css and Html. I also have knowledge to work with Vue, React, or any framework JS based</h4>
+
+<h1 align="center">👋 Hello, I'm Vinicius Schuelter!</h1>
+<h4>I'm a passionate Software Engineer with nearly a decade of experience, specializing in front-end development with a strong focus on Angular. My journey in the tech world has allowed me to dive deep into the intricacies of web development, and I've honed my skills with Angular to build exceptional user interfaces and web applications.</h4>
+<h4>Beyond Angular, I bring versatility to the table, having worked extensively with Vue, React, Node.js, and a range of JavaScript-based frameworks. My commitment to crafting clean, efficient, and scalable code has been a driving force throughout my career.</h4>
+<h4>When I'm not immersed in code, you can find me exploring the latest trends in the tech industry, sharing my insights on my blog, or collaborating on exciting open-source projects.
+<h4>Let's connect and collaborate on the next big thing in tech!</h4>
+<h4>📫 Reach out to me on <a href="https://www.linkedin.com/in/vinicius-schuelter/" target="_new">LinkedIn</a> or check out my latest projects here on GitHub.</h4>
+<hr>
+
+<div align="center">    
 <a href="github.com/viniciusschuelter" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=viniciusschuelter&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
